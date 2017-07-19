@@ -16,7 +16,7 @@ public class FeaturedRecyclerView extends RecyclerView {
     private int maxDistance;
     private int diffHeight;
 
-    private int totalItemsInView = 0;
+    private int totalItemsInView = 10;
     private int itemToResize;
 
     private FeatureRecyclerViewAdapter adapter;
